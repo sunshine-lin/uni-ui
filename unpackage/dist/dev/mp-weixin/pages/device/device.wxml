@@ -1,0 +1,1 @@
+<view><button type="default">12</button><uni-badge vue-id="1d2380c0-1" text="12222" type="success" bind:__l="__l"></uni-badge></view>

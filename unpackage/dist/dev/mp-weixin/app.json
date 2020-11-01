@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/device/device",
+    "pages/list/list"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "商城",
+    "navigationBarBackgroundColor": "#007AFF",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#4492eb"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/device/device",
+        "text": "设备"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "列表"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {}
+}
